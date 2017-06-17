@@ -1,14 +1,9 @@
-###Welcome to follow me on GitHub or CSDN
+### The top Internet companies android interview questions and answers
 
-GitHub: https://github.com/JackyAndroid
+[Github Repo](https://github.com/JackyAndroid/AndroidInterview-Q-A) welcome star | Github 仓库 欢迎star
 
-CSDN: http://blog.csdn.net/rain_butterfly
+[中文版Gitbook](http://www.jackywang.tech/AndroidInterview-Q-A/)
 
-[中文版文档](https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md)
+[English Doc](https://github.com/JackyAndroid/AndroidInterview-Q-A/tree/master/english)
 
----
-
-# AndroidInterview-Q-A
-The top Internet companies interview questions and answers
-
-english document will comming soon
+English version gitbook is coming soon..
